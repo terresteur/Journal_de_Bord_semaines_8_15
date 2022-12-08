@@ -17,10 +17,15 @@ projet d'un jeux video qui vas permettre de acceder a une histoire peut commins 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
 
+![nom](https://github.com/terresteur/Journal_de_Bord_semaines_8_15/blob/main/Images/image.png)
+
 
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis.
+
+![nom](https://github.com/terresteur/Journal_de_Bord_semaines_8_15/blob/main/Images/image.png)
+![nom](https://github.com/terresteur/Journal_de_Bord_semaines_8_15/blob/main/Images/image.png)
 
 
 
