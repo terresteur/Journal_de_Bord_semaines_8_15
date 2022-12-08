@@ -24,7 +24,7 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis.
 
-![nom](https://github.com/terresteur/Journal_de_Bord_semaines_8_15/blob/main/Images/image.png)
+![nom](https://github.com/terresteur/Journal_de_Bord_semaines_8_15/blob/main/Images/groote.png)
 ![nom](https://github.com/terresteur/Journal_de_Bord_semaines_8_15/blob/main/Images/image.png)
 
 
