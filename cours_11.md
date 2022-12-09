@@ -4,14 +4,14 @@
 ### Points forts
 Nommer deux points forts de votre présentation. 
 
-mon premier point fort de ma presentation c'est le faite de faire decouvrire un nouvelle outil sur photophop que j'ai pris le temps de chercher et le deuxiéme c'est le fait que je parle fort dans la presentation.
+Mon premier point fort de ma présentation c'est le fait de faire découvrir un nouveau outil sur Photoshop que j'ai pris le temps de chercher et le deuxième c'est le fait que je parle fort dans la présentation. 
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations.
 
-Le partage d'écran étais mal chois et j'ai eu quelque moment de langue pose.
+Le partage d'écran était mal choisi et j'ai eu quelque moment de langue pose.
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
 
-La presentation de Keven car il parle de facon très profesionnel dans sa presentation et sa donne envhi de prendre au serieux se qu'il dit.
+La présentation de Keven, car il parle de façon très professionnelle dans sa présentation et sa donne envie de prendre au sérieux ce qu'il dit. 
